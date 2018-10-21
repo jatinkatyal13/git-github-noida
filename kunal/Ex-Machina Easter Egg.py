@@ -8,7 +8,7 @@ def sieve(n):
                     x[j]=0
                     j = j+i
     return x
-
+# new comment added
 def prime(n,x):
     i = 1
     j = 1
